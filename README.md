@@ -3,7 +3,7 @@
 
 ## Motivation: 
 
-My motivation to explore the stocks that were being pushed in the subreddit, r/wallstreetbets, was the thought of how, with minimal information, could I invest into these stocks and come out with a gain. I wanted to learn more about investing so I could make more money. With investing into stocks and cryptocurrencies becoming more main stream, this has allowed anyone to become an investor themselves. The question I wanted to explore with theis project was "Out of GME, AMC, and Dogecoin, if you had bought in at the beginning of the year of 2021, which would have been the best stock to invest in if you were holding?"
+My motivation to explore the stocks that were being pushed in the subreddit, r/wallstreetbets, was the thought of how, with minimal information, could I invest into these stocks and come out with a gain. I wanted to learn more about investing so I could make more money. With investing into stocks and cryptocurrencies becoming more main stream, this has allowed anyone to become an investor themselves. The question I wanted to explore with this project was "Out of GME, AMC, and Dogecoin, if you had bought in at the beginning of the year of 2021, which would have been the best stock to invest in if you were holding?"
 
 ## Data Source: 
 
