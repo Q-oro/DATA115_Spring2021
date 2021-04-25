@@ -1,20 +1,20 @@
 # DATA 115 Spring 2021 - Personal Dataset Project 
 
-#📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
+## 📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
 
-#Motivation: 
+## Motivation: 
 
 
 
-#Data Process: 
+## Data Process: 
 
-#Visualization: 
+## Visualization: 
 
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/AMCclosingprice.png)
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/GMEclosingprice.png)
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/DOGE-USDclosingprice.png)
 
-#Analysis:
+## Analysis:
 
 <table>
 <tr><th> GME </th><th> AMC </th><th> DOGECOIN </th></tr>
@@ -66,4 +66,4 @@ we do this (Sell Price - Purchase Price)/Purchase Price x 100. This provided us 
   
 </table>
 
-#Conclusion: 
+## Conclusion: 
