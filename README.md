@@ -1,6 +1,5 @@
 # DATA 115 Spring 2021 - Personal Dataset Project 
-
-## 📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
+ 📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
 
 ## Motivation: 
 
