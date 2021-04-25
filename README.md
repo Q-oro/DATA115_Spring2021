@@ -22,7 +22,15 @@ Each graph shows an overall gain if you had held since your initial investment f
 
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/AMCclosingprice.png)
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/GMEclosingprice.png)
+
+For both AMC and GME stocks, we do see more movement in the stock because there were a high volume going in and out of the market. 
+We also see a huge jump in the stock price in end of January and early February because of the pump that came with the collective efforts of the subreddit, 
+r/wallstreetbets. This was amazing to watch and what made me want to learn more about investment initially. 
+
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/DOGE-USDclosingprice.png)
+
+Dogecoin was the focus of investors after the whole r/wallstreetbets pump of stocks they chose. It is amazing to see how well a cryptocurrency that was made out of 
+meme is doing right now. 
 
 ## Analysis:
 
