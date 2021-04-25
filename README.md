@@ -3,7 +3,11 @@
 
 ## Motivation: 
 
+My motivation to explore stocks was because I wanted to learn how to invest. Learning that the US dollar when left in a saving actually loses value over time, I learned that investing can allow you to gain more money when gathering knowledge and putting your money into a company you support.
 
+## Data Source: 
+
+The data for the stocks I explored was gathered from Yahoo! Finance through looking up the stocks and going to the historical data tab. From there, you can choose from daily, weekly, and monthly information of data for each stock you are looking at with specified dates as well. 
 
 ## Data Process: 
 
@@ -66,3 +70,5 @@ we do this (Sell Price - Purchase Price)/Purchase Price x 100. This provided us 
 </table>
 
 ## Conclusion: 
+
+Stocks and Cryptocurrency is the newest trend that everyone from the kid down the street is doing. 
