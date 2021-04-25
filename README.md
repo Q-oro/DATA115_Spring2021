@@ -15,9 +15,13 @@
 ![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/DOGE-USDclosingprice.png)
 
 #Analysis: 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <table>
-<tr><th> GME </th><th> AMC </th><th> DOGECOIN </th></tr>
+<tr><th> GME  
 
 <tr><td>
   
@@ -26,6 +30,7 @@
 | Purchase Price | 1/4/2021 |	$19.00 | 
 | Selling Price | 4/23/2021	| $149.00	| 
 
+</th><th> AMC
 <tr><td>
   
 | | Date | Price |
@@ -33,6 +38,7 @@
 | Purchase Price | 1/4/2021 |	$2.20 | 
 | Selling Price | 4/23/2021	| $10.09	|
 
+/th><th> DOGECOIN 
 <tr><td>
   
 | | Date | Price |
@@ -40,6 +46,7 @@
 | Purchase Price | 1/4/2021 |	$0.0098 | 
 | Selling Price | 4/23/2021	| $0.2610	|
 
+</th></tr>
 </table>
 
 Utilizing the formula for how much profit could have been made in each of the three stocks we examined, 
