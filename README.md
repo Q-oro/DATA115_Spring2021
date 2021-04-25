@@ -46,20 +46,22 @@ we do this (Sell Price - Purchase Price)/Purchase Price x 100. This provided us 
 
 <table>
 <tr><th> GME </th><th> AMC </th><th> DOGECOIN </th></tr>
-
 <tr><td>
-| GAIN |
-| ---- |
+
+| GAIN  |
+| ----- |
 |684.21%|  
  
-<tr><td>
-| GAIN |
-| ---- |
+</td><td>
+  
+| GAIN  |
+| ----- |
 |358.64%|
   
-<tr><td>
-| GAIN |
-| ---- |
+</td><td>
+  
+| GAIN   |
+| ------ |
 |2563.27%|
   
 </table>
