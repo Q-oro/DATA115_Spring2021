@@ -1,10 +1,68 @@
-# DATA115_Spring2021
+# DATA 115 Spring 2021 - Personal Dataset Project 
 
-This is my repository for my personal dataset project for Data 115. 
+##📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
 
-📈Stocks...📈Stonks...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
+##Motivation: 
 
-<img src = "https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/AMCclosingprice.png">
-<img src = "https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/GMEclosingprice.png">
-<img src = "https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/DOGE-USDclosingprice.png">
-Caption: (Will GME go to the Moon??) This visualization of the GME stock provides a front seat view of when the r/wallstreetbets traders went against the hedge fund traders that caused the stock price of Gamestop to skyrocket. 
+
+
+##Data Process: 
+
+##Visualization: 
+
+![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/AMCclosingprice.png)
+![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/GMEclosingprice.png)
+![image](https://raw.githubusercontent.com/Q-oro/DATA115_Spring2021/main/DOGE-USDclosingprice.png)
+
+##Analysis: 
+
+<table>
+<tr><th> GME </th><th> AMC </th><th> DOGECOIN </th></tr>
+
+<tr><td>
+  
+| | Date | Price |
+|--- | --- | --- | 
+| Purchase Price | 1/4/2021 |	$19.00 | 
+| Selling Price | 4/23/2021	| $149.00	| 
+
+<tr><td>
+  
+| | Date | Price |
+|--- | --- | --- | 
+| Purchase Price | 1/4/2021 |	$2.20 | 
+| Selling Price | 4/23/2021	| $10.09	|
+
+<tr><td>
+  
+| | Date | Price |
+|--- | --- | --- | 
+| Purchase Price | 1/4/2021 |	$0.0098 | 
+| Selling Price | 4/23/2021	| $0.2610	|
+
+</table>
+
+Utilizing the formula for how much profit could have been made in each of the three stocks we examined, 
+we do this (Sell Price - Purchase Price)/Purchase Price x 100. This provided us with a percentage of gain from each stock from if you had 
+
+<table>
+<tr><th> GME </th><th> AMC </th><th> DOGECOIN </th></tr>
+
+<tr><td>
+| GAIN |
+| ---- |
+|684.21%|  
+ 
+<tr><td>
+| GAIN |
+| ---- |
+|358.64%|
+  
+<tr><td>
+| GAIN |
+| ---- |
+|2563.27%|
+  
+</table>
+
+##Conclusion: 
