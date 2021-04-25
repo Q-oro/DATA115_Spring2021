@@ -1,6 +1,6 @@
 # DATA 115 Spring 2021 - Personal Dataset Project 
  📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
-Disclaimer: I am not a financial Advisor.
+ Disclaimer: I am not a financial Advisor.
 
 ## Motivation: 
 
