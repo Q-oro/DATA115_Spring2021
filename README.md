@@ -1,5 +1,6 @@
 # DATA 115 Spring 2021 - Personal Dataset Project 
  📈Stocks...📈Stonks...💰Crypto...💎🤲Diamond Hands💎🤲...To The Moon🚀🚀!
+Disclaimer: I am not a financial Advisor.
 
 ## Motivation: 
 
@@ -81,4 +82,4 @@ we do this, (Sell Price - Purchase Price)/Purchase Price x 100. This provided us
 
 ## Conclusion: 
 
-Stocks and Cryptocurrency is the newest trend that everyone from the kid down the street is doing. Is it easy? No. Did I learn a lot from this? I did, but I realized that each time I learned more, I had more questions come up about the stock. In the end, the best investment between the three would have been Dogecoin. Will it stay that way? I am not sure. 
+Stocks and Cryptocurrency is the newest trend that everyone from the kid down the street is doing. Is it easy? No. Did I learn a lot from this? I did, but I realized that each time I learned more, I had more questions come up about the stock. Overall examining the data, there are no outliers in stock prices essentially because the volatility of stocks is high. This project made me realize how amazing data analysis can be used to your advantage and help figure things out with the data you gathered. I feel when continuing with the project after the class, I will examine other stocks I may want to invest in and see how the trend of the investment looks. In the end, the best investment between the three would have been Dogecoin. Will it stay that way? I am not sure. It seems with stocks and cryptocurrencies, there will be always be ups and downs. Are they huge loses or huge gains? It really depends on if you are long term holders or more of a short term. There is a varity of investors and for me, the knowledge that is out there is exciting and I am happy to continue to learn to help myself be a safe investor. 
